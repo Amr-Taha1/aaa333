@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Snake Retro</string>
+    <string name="score_label">Score: %1$d</string>
+    <string name="high_score_label">Best: %1$d</string>
+    <string name="difficulty_label">Select Difficulty</string>
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_medium">Medium</string>
+    <string name="difficulty_hard">Hard</string>
+    <string name="state_paused">PAUSED</string>
+    <string name="state_game_over">GAME OVER</string>
+    <string name="btn_play">START GAME</string>
+    <string name="btn_resume">RESUME</string>
+    <string name="btn_play_again">PLAY AGAIN</string>
+    <string name="btn_exit">MAIN MENU</string>
+    <string name="btn_mute">Mute Sounds</string>
+    <string name="btn_unmute">Unmute Sounds</string>
+    <string name="instructions">Swipe in any direction or use the D-pad overlay below to guide the snake. Eat fruits to expand and speed up!</string>
+    <string name="crash_wall">You crashed into the wall!</string>
+    <string name="crash_self">You bit your own tail!</string>
+    <string name="final_score_label">Final Score</string>
+    <string name="quit_confirm">Are you sure you want to quit the current game?</string>
+</resources>

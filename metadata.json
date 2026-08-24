@@ -1,0 +1,6 @@
+{
+  "name": "Snake Retro",
+  "description": "A classic snake game featuring smooth responsive swipe controls, difficulty choices, dynamic speeds, custom sound synthesis, and local high score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
